@@ -4,6 +4,7 @@ class Database():
 
     def __init__(self):
         self.tables = []
+        #comment
         pass
 
     # Not required for milestone1
